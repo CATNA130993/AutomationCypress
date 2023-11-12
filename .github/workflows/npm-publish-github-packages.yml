@@ -4,7 +4,7 @@
 name: Node.js Package
 
 on: push
-name: npm build, lint, test and publish
+name: npm build, publish
 
 jobs:
   build:
